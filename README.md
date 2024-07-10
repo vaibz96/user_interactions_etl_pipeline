@@ -9,11 +9,11 @@ This repository contains the code and scripts for an ETL pipeline that processes
   - [Data Cleaning](#data-cleaning)
   - [Data Transformation](#data-transformation)
   - [Data Loading](#data-loading)
-- [Airflow DAG](#airflow-dag)
+- [Airflow DAG](#user-interactions-etl-dag)
 - [Data Storage and Retrieval](#data-storage-and-retrieval)
-  - [Schema Creation](#schema-creation)
-  - [Data Insertion](#data-insertion)
-  - [Data Retrieval](#data-retrieval)
+  - [Schema Creation](#user-interactions-schema-creation)
+  - [Data Insertion of transformed data](#user-interactions-data-transformed)
+  - [Data Retrieval](#data-retrieval-scripts)
 - [Optimization Techniques](#optimization-techniques)
 
 
